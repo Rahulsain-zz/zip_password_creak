@@ -1,12 +1,12 @@
 # zip_password_creak
 A brute-force based ZIP password cracker using Python. It attempts to unlock a password-protected .zip file by trying passwords from a wordlist.
-# 🔐 ZIP Password Cracker using Python
+#  ZIP Password Cracker using Python
 
 A simple brute-force tool written in Python to crack password-protected `.zip` files using a wordlist.
 
 ---
 
-## 🧰 Features
+## Features
 
 - ✅ Crack `.zip` file passwords using a wordlist (dictionary attack)
 - ✅ Written in pure Python using the built-in `zipfile` module
@@ -15,7 +15,7 @@ A simple brute-force tool written in Python to crack password-protected `.zip` f
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 ### 📁 Step 1: Requirements
 - Python 3.x (No external libraries needed)
@@ -27,7 +27,7 @@ zip_password_crack/
 ├── wordlist.txt # Passwords to try
 └── secret.zip # Your password-protected zip file
 
-### ▶️ Step 3: Run the Tool
+### Step 3: Run the Tool
 
 ```bash
 python zip_cracker.py
